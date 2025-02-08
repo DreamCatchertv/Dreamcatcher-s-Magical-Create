@@ -19,7 +19,7 @@ Step into a world of mechanical wonders and arcane powers! This modpack revolves
 
 🌍 Whether you're a master engineer or a powerful sorcerer – forge your own legend!
 
-================================================================================================================================
+===============================================================================================================
 
 
 This is just for issues regardind the Minecraft Modpack "Dreamcatcher's Magical Create" on Curseforge
