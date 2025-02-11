@@ -1,0 +1,44 @@
+Changelog
+
+V 0.1
+-Create the Modpack
+
+
+V 0.2
+-Added "Chef's Delight"
+-Added KleeSlabs
+-Added TinyRedstone
+-Added Snad(Redstone Edition)
+-Changed Ressourcepack Version for better compability
+-Removed "Yung's Better Strongholds"
+-Added "Integrated Strondhold"
+-Disabled any FE/RF-Generation outside of the Create-Mod and Addons
+
+
+V 0.3
+-Fixed unnecessary Ore generation (from AllTheOres)
+-Fixed unnecessary Geode generation (from GeOre)
+
+V 0.4
+-Added and configured "Default Options""
+
+-Added Server-Files
+
+V 0.5
+-Added Inventory Essentials
+-Added My Server is Compatible
+-Removed Thorium-Ore generation
+-Removed recipes with Thorium
+-Updated Mods
+Sophisticated Core
+Sophisticated Backpacks
+Sophisticated Storage
+Balm
+Just Enough Effect Descriptions (JEED)
+Supplementaries
+FTB Library (Forge)
+Allthemodium
+Ars Technica
+Botania
+Patchouli
+Connectivity
