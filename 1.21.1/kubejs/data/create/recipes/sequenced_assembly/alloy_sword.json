@@ -1,0 +1,127 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "allthemodium:unobtainium_sword"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 100.0,
+      "item": "allthemodium:alloy_sword"
+    }
+  ],
+  "sequence": [
+
+    {
+      "type": "create:deploying",
+      "ingredients": [
+       {
+          "item": "allthemodium:unobtainium_sword"
+       },
+        {
+          "item": "allthemodium:unobtainium_allthemodium_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sword_part"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        },
+        {
+          "item": "allthemodium:unobtainium_vibranium_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sword_part"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        },
+        {
+          "item": "allthemodium:vibranium_allthemodium_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sword_part"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+          {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        }
+      ],
+          {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+          {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        }
+      ],
+          {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:sword_part"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+          {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "allthemodium:alloy_sword"
+        }
+      ],
+
+
+}
+  ],
+  "transitionalItem": {
+    "item": "kubejs:sword_part"
+  }
+}
